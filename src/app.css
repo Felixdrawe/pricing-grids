@@ -1,0 +1,19 @@
+/* src/input.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .border-10 {
+    border-width: 10px;
+  }
+  .border-12 {
+    border-width: 12px;
+  }
+  .border-14 {
+    border-width: 14px;
+  }
+  .border-16 {
+    border-width: 16px;
+  }
+}
